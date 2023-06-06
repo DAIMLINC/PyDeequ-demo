@@ -1,0 +1,245 @@
+﻿ID,Date,Region,City,Category,Product,Qty,UnitPrice,TotalPrice,CustomerEmail,WebsiteURL
+ID07351,1-Jan,East,Boston,Bars,Carrot,1,1.77,58.41,jhon@gmail.com,https://www.google.com
+ID07352,4-Jan,East,Boston,Crackers,Whole Wheat,1,3.49,303.63,smith@gmail.com,https://www.yahoo.com
+ID07353,7-Jan,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,108.46,Spectre@gmail.com,https://www.microsoft.com
+ID07354,10-Jan,East,New York,Cookies,Chocolate Chip,1,1.87,153.34,doe@gmail.com,https://www.facebook.com
+ID07355,13-Jan,East,Boston,Cookies,Arrowroot,1,2.18,82.84,jhon@gmail.com,https://www.meta.com
+ID07356,16-Jan,East,Boston,Bars,Carrot,1,1.77,95.58,smith@gmail.com,https://www.spaces.com
+ID07357,19-Jan,East,Boston,Crackers,Whole Wheat,1,3.49,520.01,Spectre@gmail.com,https://www.google.com
+ID07358,22-Jan,West,Los Angeles,Bars,Carrot,1,1.77,90.27,doe@gmail.com,https://www.yahoo.com
+ID07359,25-Jan,East,New York,Bars,Carrot,1,1.77,177,jhon@gmail.com,https://www.microsoft.com
+ID07360,28-Jan,East,New York,Snacks,Potato Chips,1,1.35,37.8,smith@gmail.com,https://www.facebook.com
+ID07361,31-Jan,East,Boston,Cookies,Arrowroot,1,2.18,78.48,Spectre@gmail.com,https://www.meta.com
+ID07362,3-Feb,East,Boston,Cookies,Chocolate Chip,1,1.87,57.97,doe@gmail.com,https://www.spaces.com
+ID07363,6-Feb,East,Boston,Crackers,Whole Wheat,1,3.49,97.72,jhon@gmail.com,https://www.google.com
+ID07364,9-Feb,West,Los Angeles,Bars,Carrot,1,1.77,77.88,smith@gmail.com,https://www.yahoo.com
+ID07365,12-Feb,East,New York,Bars,Carrot,1,1.77,40.71,Spectre@gmail.com,https://www.microsoft.com
+ID07366,15-Feb,East,New York,Snacks,Potato Chips,1,1.35,36.45,doe@gmail.com,https://www.facebook.com
+ID07367,18-Feb,East,Boston,Cookies,Arrowroot,1,2.18,93.74,jhon@gmail.com,https://www.meta.com
+ID07368,21-Feb,East,Boston,Cookies,Oatmeal Raisin,1,2.84,349.32,smith@gmail.com,https://www.spaces.com
+ID07369,24-Feb,West,Los Angeles,Bars,Bran,1,1.87,78.54,Spectre@gmail.com,https://www.google.com
+ID07370,27-Feb,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,93.72,doe@gmail.com,https://www.yahoo.com
+ID07371,2-Mar,East,New York,Cookies,Chocolate Chip,1,1.87,158.95,jhon@gmail.com,https://www.microsoft.com
+ID07372,5-Mar,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,85.2,smith@gmail.com,https://www.facebook.com
+ID07373,8-Mar,East,Boston,Bars,Carrot,1,1.77,107.97,Spectre@gmail.com,https://www.meta.com
+ID07374,11-Mar,East,Boston,Crackers,Whole Wheat,1,3.49,139.6,doe@gmail.com,https://www.spaces.com
+ID07375,14-Mar,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,160.82,jhon@gmail.com,https://www.google.com
+ID07376,17-Mar,East,New York,Bars,Carrot,1,1.77,67.26,smith@gmail.com,https://www.yahoo.com
+ID07377,20-Mar,East,New York,Snacks,Potato Chips,1,1.68,114.24,Spectre@gmail.com,https://www.microsoft.com
+ID07378,23-Mar,West,San Diego,Cookies,Chocolate Chip,1,1.87,72.93,doe@gmail.com,https://www.facebook.com
+ID07379,26-Mar,East,Boston,Bars,Bran,1,1.87,192.61,jhon@gmail.com,https://www.meta.com
+ID07380,29-Mar,East,Boston,Cookies,Oatmeal Raisin,1,2.84,548.12,smith@gmail.com,https://www.spaces.com
+ID07381,1-Apr,West,Los Angeles,Bars,Carrot,1,1.77,102.66,Spectre@gmail.com,https://www.google.com
+ID07382,4-Apr,West,Los Angeles,Snacks,Potato Chips,1,1.68,114.24,doe@gmail.com,https://www.yahoo.com
+ID07383,7-Apr,East,New York,Bars,Carrot,1,1.77,161.07,jhon@gmail.com,https://www.microsoft.com
+ID07384,10-Apr,East,New York,Crackers,Whole Wheat,1,3.49,80.27,smith@gmail.com,https://www.facebook.com
+ID07385,13-Apr,West,San Diego,Snacks,Potato Chips,1,1.68,47.04,Spectre@gmail.com,https://www.meta.com
+ID07386,16-Apr,East,Boston,Bars,Carrot,1,1.77,84.96,doe@gmail.com,https://www.spaces.com
+ID07387,19-Apr,East,Boston,Snacks,Potato Chips,1,1.68,225.12,jhon@gmail.com,https://www.google.com
+ID07388,22-Apr,West,Los Angeles,Bars,Carrot,1,1.77,35.4,smith@gmail.com,https://www.yahoo.com
+ID07389,25-Apr,East,New York,Bars,Carrot,1,1.77,93.81,Spectre@gmail.com,https://www.microsoft.com
+ID07390,28-Apr,East,New York,Snacks,Potato Chips,1,1.68,107.52,doe@gmail.com,https://www.facebook.com
+ID07391,1-May,West,San Diego,Cookies,Chocolate Chip,1,1.87,117.81,jhon@gmail.com,https://www.meta.com
+ID07392,4-May,East,Boston,Bars,Bran,1,1.87,196.35,smith@gmail.com,https://www.spaces.com
+ID07393,7-May,East,Boston,Cookies,Oatmeal Raisin,1,2.84,391.92,Spectre@gmail.com,https://www.google.com
+ID07394,10-May,West,Los Angeles,Bars,Carrot,1,1.77,44.25,doe@gmail.com,https://www.yahoo.com
+ID07395,13-May,West,Los Angeles,Crackers,Whole Wheat,1,3.49,73.29,jhon@gmail.com,https://www.microsoft.com
+ID07396,16-May,East,New York,Bars,Carrot,1,1.77,107.97,smith@gmail.com,https://www.facebook.com
+ID07397,19-May,East,New York,Snacks,Potato Chips,1,1.68,82.32,Spectre@gmail.com,https://www.meta.com
+ID07398,22-May,West,San Diego,Cookies,Chocolate Chip,1,1.87,102.85,doe@gmail.com,https://www.spaces.com
+ID07399,25-May,East,Boston,Cookies,Arrowroot,1,2.18,58.86,jhon@gmail.com,https://www.google.com
+ID07400,28-May,East,Boston,Bars,Carrot,1,1.77,102.66,smith@gmail.com,https://www.yahoo.com
+ID07401,31-May,East,Boston,Crackers,Whole Wheat,1,3.49,115.17,Spectre@gmail.com,https://www.microsoft.com
+ID07402,3-Jun,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,817.92,doe@gmail.com,https://www.facebook.com
+ID07403,6-Jun,East,New York,Cookies,Chocolate Chip,1,1.87,142.12,jhon@gmail.com,https://www.meta.com
+ID07404,9-Jun,West,San Diego,Bars,Carrot,1,1.77,74.34,smith@gmail.com,https://www.spaces.com
+ID07405,12-Jun,West,San Diego,Crackers,Whole Wheat,1,3.49,69.8,Spectre@gmail.com,https://www.google.com
+ID07406,15-Jun,East,Boston,Bars,Carrot,1,1.77,132.75,doe@gmail.com,https://www.yahoo.com
+ID07407,18-Jun,East,Boston,Crackers,Whole Wheat,1,3.49,132.62,jhon@gmail.com,https://www.microsoft.com
+ID07408,21-Jun,West,Los Angeles,Bars,Carrot,1,1.77,541.62,smith@gmail.com,https://www.facebook.com
+ID07409,24-Jun,West,Los Angeles,Snacks,Potato Chips,1,1.68,47.04,Spectre@gmail.com,https://www.meta.com
+ID07410,27-Jun,East,New York,Bars,Bran,1,1.87,205.7,doe@gmail.com,https://www.spaces.com
+ID07411,30-Jun,East,New York,Cookies,Oatmeal Raisin,1,2.84,144.84,jhon@gmail.com,https://www.google.com
+ID07412,3-Jul,West,San Diego,Bars,Carrot,1,1.77,92.04,smith@gmail.com,https://www.yahoo.com
+ID07413,6-Jul,West,San Diego,Crackers,Whole Wheat,1,3.49,97.72,Spectre@gmail.com,https://www.microsoft.com
+ID07414,9-Jul,East,Boston,Bars,Carrot,1,1.77,240.72,doe@gmail.com,https://www.facebook.com
+ID07415,12-Jul,East,Boston,Crackers,Whole Wheat,1,3.49,146.58,jhon@gmail.com,https://www.meta.com
+ID07416,15-Jul,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,140.25,smith@gmail.com,https://www.spaces.com
+ID07417,18-Jul,East,New York,Bars,Bran,1,1.87,134.64,Spectre@gmail.com,https://www.google.com
+ID07418,21-Jul,East,New York,Cookies,Oatmeal Raisin,1,2.84,159.04,doe@gmail.com,https://www.yahoo.com
+ID07419,24-Jul,West,San Diego,Bars,Bran,1,1.87,95.37,jhon@gmail.com,https://www.microsoft.com
+ID07420,27-Jul,West,San Diego,Snacks,Potato Chips,1,1.68,52.08,smith@gmail.com,https://www.facebook.com
+ID07421,30-Jul,East,Boston,Bars,Bran,1,1.87,104.72,Spectre@gmail.com,https://www.meta.com
+ID07422,2-Aug,East,Boston,Cookies,Oatmeal Raisin,1,2.84,389.08,doe@gmail.com,https://www.spaces.com
+ID07423,5-Aug,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,200.09,jhon@gmail.com,https://www.google.com
+ID07424,8-Aug,East,New York,Bars,Carrot,1,1.77,42.48,smith@gmail.com,https://www.yahoo.com
+ID07425,11-Aug,East,New York,Crackers,Whole Wheat,1,3.49,104.7,Spectre@gmail.com,https://www.microsoft.com
+ID07426,14-Aug,West,San Diego,Cookies,Chocolate Chip,1,1.87,130.9,doe@gmail.com,https://www.facebook.com
+ID07427,17-Aug,East,Boston,Cookies,Arrowroot,1,2.18,67.58,jhon@gmail.com,https://www.meta.com
+ID07428,20-Aug,East,Boston,Bars,Carrot,1,1.77,192.93,smith@gmail.com,https://www.spaces.com
+ID07429,23-Aug,East,Boston,Crackers,Whole Wheat,1,3.49,73.29,Spectre@gmail.com,https://www.google.com
+ID07430,26-Aug,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,149.6,doe@gmail.com,https://www.yahoo.com
+ID07431,29-Aug,East,New York,Bars,Bran,1,1.87,140.25,jhon@gmail.com,https://www.microsoft.com
+ID07432,1-Sep,East,New York,Cookies,Oatmeal Raisin,1,2.84,210.16,smith@gmail.com,https://www.facebook.com
+ID07433,4-Sep,West,San Diego,Bars,Carrot,1,1.77,79.65,Spectre@gmail.com,https://www.meta.com
+ID07434,7-Sep,East,Boston,Cookies,Arrowroot,1,2.18,61.04,doe@gmail.com,https://www.spaces.com
+ID07435,10-Sep,East,Boston,Bars,Carrot,1,1.77,253.11,jhon@gmail.com,https://www.google.com
+ID07436,13-Sep,East,Boston,Snacks,Pretzels,1,3.15,85.05,smith@gmail.com,https://www.yahoo.com
+ID07437,16-Sep,West,Los Angeles,Bars,Carrot,1,1.77,235.41,Spectre@gmail.com,https://www.microsoft.com
+ID07438,19-Sep,East,New York,Cookies,Arrowroot,1,2.18,239.8,doe@gmail.com,https://www.facebook.com
+ID07439,22-Sep,East,New York,Cookies,Chocolate Chip,1,1.87,121.55,jhon@gmail.com,https://www.meta.com
+ID07440,25-Sep,West,San Diego,Bars,Bran,1,1.87,61.71,smith@gmail.com,https://www.spaces.com
+ID07441,28-Sep,East,Boston,Cookies,Arrowroot,1,2.18,176.58,Spectre@gmail.com,https://www.google.com
+ID07442,1-Oct,East,Boston,Bars,Carrot,1,1.77,136.29,doe@gmail.com,https://www.yahoo.com
+ID07443,4-Oct,East,Boston,Crackers,Whole Wheat,1,3.49,132.62,jhon@gmail.com,https://www.microsoft.com
+ID07444,7-Oct,West,Los Angeles,Bars,Carrot,1,1.77,70.8,smith@gmail.com,https://www.facebook.com
+ID07445,10-Oct,West,Los Angeles,Snacks,Potato Chips,1,1.68,191.52,Spectre@gmail.com,https://www.meta.com
+ID07446,13-Oct,East,New York,Cookies,Arrowroot,1,2.18,488.32,doe@gmail.com,https://www.spaces.com
+ID07447,16-Oct,East,New York,Bars,Carrot,1,1.77,249.57,jhon@gmail.com,https://www.google.com
+ID07448,19-Oct,East,New York,Crackers,Whole Wheat,1,3.49,111.68,smith@gmail.com,https://www.yahoo.com
+ID07449,22-Oct,West,San Diego,Bars,Carrot,1,1.77,35.4,Spectre@gmail.com,https://www.microsoft.com
+ID07450,25-Oct,East,Boston,Cookies,Arrowroot,1,2.18,87.2,doe@gmail.com,https://www.facebook.com
+ID07451,28-Oct,East,Boston,Cookies,Chocolate Chip,1,1.87,91.63,jhon@gmail.com,https://www.meta.com
+ID07452,31-Oct,East,Boston,Crackers,Whole Wheat,1,3.49,160.54,smith@gmail.com,https://www.spaces.com
+ID07453,3-Nov,West,Los Angeles,Bars,Carrot,1,1.77,69.03,Spectre@gmail.com,https://www.google.com
+ID07454,6-Nov,West,Los Angeles,Snacks,Potato Chips,1,1.68,104.16,doe@gmail.com,https://www.yahoo.com
+ID07455,9-Nov,East,New York,Bars,Carrot,1,1.77,159.3,jhon@gmail.com,https://www.microsoft.com
+ID07456,12-Nov,West,San Diego,Cookies,Arrowroot,1,2.18,224.54,smith@gmail.com,https://www.facebook.com
+ID07457,15-Nov,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,90.88,Spectre@gmail.com,https://www.meta.com
+ID07458,18-Nov,East,Boston,Bars,Bran,1,1.87,123.42,doe@gmail.com,https://www.spaces.com
+ID07459,21-Nov,East,Boston,Cookies,Oatmeal Raisin,1,2.84,275.48,jhon@gmail.com,https://www.google.com
+ID07460,24-Nov,West,Los Angeles,Bars,Carrot,1,1.77,53.1,smith@gmail.com,https://www.yahoo.com
+ID07461,27-Nov,West,Los Angeles,Snacks,Potato Chips,1,1.68,48.72,Spectre@gmail.com,https://www.microsoft.com
+ID07462,30-Nov,East,New York,Bars,Carrot,1,1.77,162.84,doe@gmail.com,https://www.facebook.com
+ID07463,3-Dec,West,San Diego,Cookies,Arrowroot,1,2.18,303.02,jhon@gmail.com,https://www.meta.com
+ID07464,6-Dec,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,82.36,smith@gmail.com,https://www.spaces.com
+ID07465,9-Dec,East,Boston,Bars,Banana,1,2.27,68.1,Spectre@gmail.com,https://www.google.com
+ID07466,12-Dec,East,Boston,Cookies,Chocolate Chip,1,1.87,67.32,doe@gmail.com,https://www.yahoo.com
+ID07467,15-Dec,East,Boston,Crackers,Whole Wheat,1,3.49,143.09,jhon@gmail.com,https://www.microsoft.com
+ID07468,18-Dec,West,Los Angeles,Bars,Carrot,1,1.77,77.88,smith@gmail.com,https://www.facebook.com
+ID07469,21-Dec,West,Los Angeles,Snacks,Potato Chips,1,1.68,48.72,Spectre@gmail.com,https://www.meta.com
+ID07470,24-Dec,East,New York,Cookies,Arrowroot,1,2.18,516.66,doe@gmail.com,https://www.spaces.com
+ID07471,27-Dec,East,New York,Cookies,Chocolate Chip,1,1.87,121.55,jhon@gmail.com,https://www.google.com
+ID07472,30-Dec,West,San Diego,Cookies,Arrowroot,1,2.18,180.94,smith@gmail.com,https://www.yahoo.com
+ID07473,2-Jan,East,Boston,Cookies,Arrowroot,1,2.18,69.76,Spectre@gmail.com,https://www.microsoft.com
+ID07474,5-Jan,East,Boston,Bars,Carrot,1,1.77,111.51,doe@gmail.com,https://www.facebook.com
+ID07475,8-Jan,East,Boston,Snacks,Pretzels,1,3.15,91.35,jhon@gmail.com,https://www.meta.com
+ID07476,11-Jan,West,Los Angeles,Bars,Bran,1,1.87,143.99,smith@gmail.com,https://www.spaces.com
+ID07477,14-Jan,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,227.2,Spectre@gmail.com,https://www.google.com
+ID07478,17-Jan,East,New York,Bars,Carrot,1,1.77,180.54,doe@gmail.com,https://www.yahoo.com
+ID07479,20-Jan,East,New York,Crackers,Whole Wheat,1,3.49,108.19,jhon@gmail.com,https://www.microsoft.com
+ID07480,23-Jan,West,San Diego,Bars,Carrot,1,1.77,99.12,smith@gmail.com,https://www.facebook.com
+ID07481,26-Jan,East,Boston,Cookies,Arrowroot,1,2.18,113.36,Spectre@gmail.com,https://www.meta.com
+ID07482,29-Jan,East,Boston,Bars,Carrot,1,1.77,90.27,doe@gmail.com,https://www.spaces.com
+ID07483,1-Feb,East,Boston,Snacks,Potato Chips,1,1.68,40.32,jhon@gmail.com,https://www.google.com
+ID07484,4-Feb,West,Los Angeles,Cookies,Arrowroot,1,2.18,126.44,smith@gmail.com,https://www.yahoo.com
+ID07485,7-Feb,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,63.58,Spectre@gmail.com,https://www.microsoft.com
+ID07486,10-Feb,East,New York,Bars,Carrot,1,1.77,60.18,doe@gmail.com,https://www.facebook.com
+ID07487,13-Feb,East,New York,Snacks,Potato Chips,1,1.68,35.28,jhon@gmail.com,https://www.meta.com
+ID07488,16-Feb,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,82.36,smith@gmail.com,https://www.spaces.com
+ID07489,19-Feb,East,Boston,Bars,Carrot,1,1.77,120.36,Spectre@gmail.com,https://www.google.com
+ID07490,22-Feb,East,Boston,Snacks,Pretzels,1,3.15,97.65,doe@gmail.com,https://www.yahoo.com
+ID07491,25-Feb,West,Los Angeles,Cookies,Arrowroot,1,2.18,65.4,jhon@gmail.com,https://www.microsoft.com
+ID07492,28-Feb,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,433.84,smith@gmail.com,https://www.facebook.com
+ID07493,2-Mar,East,New York,Bars,Bran,1,1.87,127.16,Spectre@gmail.com,https://www.meta.com
+ID07494,5-Mar,East,New York,Cookies,Oatmeal Raisin,1,2.84,275.48,doe@gmail.com,https://www.spaces.com
+ID07495,8-Mar,West,San Diego,Bars,Bran,1,1.87,160.82,jhon@gmail.com,https://www.google.com
+ID07496,11-Mar,West,San Diego,Snacks,Potato Chips,1,1.68,68.88,smith@gmail.com,https://www.yahoo.com
+ID07497,14-Mar,East,Boston,Bars,Carrot,1,1.77,164.61,Spectre@gmail.com,https://www.microsoft.com
+ID07498,17-Mar,East,Boston,Snacks,Potato Chips,1,1.68,78.96,doe@gmail.com,https://www.facebook.com
+ID07499,20-Mar,West,Los Angeles,Bars,Carrot,1,1.77,182.31,jhon@gmail.com,https://www.meta.com
+ID07500,23-Mar,West,Los Angeles,Snacks,Potato Chips,1,1.68,55.44,smith@gmail.com,https://www.spaces.com
+ID07501,26-Mar,East,New York,Bars,Bran,1,1.87,106.59,Spectre@gmail.com,https://www.google.com
+ID07502,29-Mar,East,New York,Cookies,Oatmeal Raisin,1,2.84,184.6,doe@gmail.com,https://www.yahoo.com
+ID07503,1-Apr,West,San Diego,Bars,Carrot,1,1.77,208.86,jhon@gmail.com,https://www.microsoft.com
+ID07504,4-Apr,East,Boston,Cookies,Arrowroot,1,2.18,78.48,smith@gmail.com,https://www.facebook.com
+ID07505,7-Apr,East,Boston,Cookies,Oatmeal Raisin,1,2.84,349.32,Spectre@gmail.com,https://www.meta.com
+ID07506,10-Apr,West,Los Angeles,Bars,Carrot,1,1.77,159.3,doe@gmail.com,https://www.spaces.com
+ID07507,13-Apr,West,Los Angeles,Crackers,Whole Wheat,1,3.49,73.29,jhon@gmail.com,https://www.google.com
+ID07508,16-Apr,East,New York,Bars,Carrot,1,1.77,84.96,smith@gmail.com,https://www.yahoo.com
+ID07509,19-Apr,East,New York,Snacks,Potato Chips,1,1.68,40.32,Spectre@gmail.com,https://www.microsoft.com
+ID07510,22-Apr,West,San Diego,Cookies,Chocolate Chip,1,1.87,125.29,doe@gmail.com,https://www.facebook.com
+ID07511,25-Apr,East,Boston,Bars,Bran,1,1.87,50.49,jhon@gmail.com,https://www.meta.com
+ID07512,28-Apr,East,Boston,Cookies,Oatmeal Raisin,1,2.84,366.36,smith@gmail.com,https://www.spaces.com
+ID07513,1-May,West,Los Angeles,Cookies,Arrowroot,1,2.18,167.86,Spectre@gmail.com,https://www.google.com
+ID07514,4-May,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,108.46,doe@gmail.com,https://www.yahoo.com
+ID07515,7-May,East,New York,Bars,Bran,1,1.87,87.89,jhon@gmail.com,https://www.microsoft.com
+ID07516,10-May,East,New York,Cookies,Oatmeal Raisin,1,2.84,93.72,smith@gmail.com,https://www.facebook.com
+ID07517,13-May,West,San Diego,Cookies,Chocolate Chip,1,1.87,153.34,Spectre@gmail.com,https://www.meta.com
+ID07518,16-May,East,Boston,Bars,Carrot,1,1.77,102.66,doe@gmail.com,https://www.spaces.com
+ID07519,19-May,East,Boston,Snacks,Pretzels,1,3.15,94.5,jhon@gmail.com,https://www.google.com
+ID07520,22-May,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,80.41,smith@gmail.com,https://www.yahoo.com
+ID07521,25-May,East,New York,Bars,Carrot,1,1.77,148.68,Spectre@gmail.com,https://www.microsoft.com
+ID07522,28-May,West,San Diego,Cookies,Arrowroot,1,2.18,78.48,doe@gmail.com,https://www.facebook.com
+ID07523,31-May,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,124.96,jhon@gmail.com,https://www.meta.com
+ID07524,3-Jun,East,Boston,Bars,Bran,1,1.87,50.49,smith@gmail.com,https://www.spaces.com
+ID07525,6-Jun,East,Boston,Cookies,Oatmeal Raisin,1,2.84,340.8,Spectre@gmail.com,https://www.google.com
+ID07526,9-Jun,East,Boston,Crackers,Whole Wheat,1,3.49,90.74,doe@gmail.com,https://www.yahoo.com
+ID07527,12-Jun,West,Los Angeles,Bars,Carrot,1,1.77,129.21,jhon@gmail.com,https://www.microsoft.com
+ID07528,15-Jun,East,New York,Bars,Bran,1,1.87,71.06,smith@gmail.com,https://www.facebook.com
+ID07529,18-Jun,East,New York,Cookies,Oatmeal Raisin,1,2.84,113.6,Spectre@gmail.com,https://www.meta.com
+ID07530,21-Jun,West,San Diego,Bars,Carrot,1,1.77,72.57,doe@gmail.com,https://www.spaces.com
+ID07531,24-Jun,East,Boston,Bars,Banana,1,2.27,61.29,jhon@gmail.com,https://www.google.com
+ID07532,27-Jun,East,Boston,Cookies,Chocolate Chip,1,1.87,71.06,smith@gmail.com,https://www.yahoo.com
+ID07533,30-Jun,East,Boston,Crackers,Whole Wheat,1,3.49,118.66,Spectre@gmail.com,https://www.microsoft.com
+ID07534,3-Jul,West,Los Angeles,Bars,Bran,1,1.87,121.55,doe@gmail.com,https://www.facebook.com
+ID07535,6-Jul,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,170.4,jhon@gmail.com,https://www.meta.com
+ID07536,9-Jul,East,New York,Cookies,Arrowroot,1,2.18,80.66,smith@gmail.com,https://www.spaces.com
+ID07537,12-Jul,East,New York,Cookies,Chocolate Chip,1,1.87,74.8,Spectre@gmail.com,https://www.google.com
+ID07538,15-Jul,West,San Diego,Bars,Bran,1,1.87,48.62,doe@gmail.com,https://www.yahoo.com
+ID07539,18-Jul,East,Boston,Bars,Banana,1,2.27,49.94,jhon@gmail.com,https://www.microsoft.com
+ID07540,21-Jul,East,Boston,Cookies,Chocolate Chip,1,1.87,59.84,smith@gmail.com,https://www.facebook.com
+ID07541,24-Jul,East,Boston,Crackers,Whole Wheat,1,3.49,80.27,Spectre@gmail.com,https://www.meta.com
+ID07542,27-Jul,West,Los Angeles,Cookies,Arrowroot,1,2.18,43.6,doe@gmail.com,https://www.spaces.com
+ID07543,30-Jul,West,Los Angeles,Cookies,Chocolate Chip,1,1.87,119.68,jhon@gmail.com,https://www.google.com
+ID07544,2-Aug,East,New York,Bars,Carrot,1,1.77,125.67,smith@gmail.com,https://www.yahoo.com
+ID07545,5-Aug,West,San Diego,Cookies,Arrowroot,1,2.18,196.2,Spectre@gmail.com,https://www.microsoft.com
+ID07546,8-Aug,West,San Diego,Cookies,Oatmeal Raisin,1,2.84,107.92,doe@gmail.com,https://www.facebook.com
+ID07547,11-Aug,East,Boston,Bars,Carrot,1,1.77,97.35,jhon@gmail.com,https://www.meta.com
+ID07548,14-Aug,East,Boston,Snacks,Pretzels,1,3.15,69.3,smith@gmail.com,https://www.spaces.com
+ID07549,17-Aug,West,Los Angeles,Bars,Carrot,1,1.77,60.18,Spectre@gmail.com,https://www.google.com
+ID07550,20-Aug,East,New York,Bars,Bran,1,1.87,72.93,doe@gmail.com,https://www.yahoo.com
+ID07551,23-Aug,East,New York,Cookies,Oatmeal Raisin,1,2.84,116.44,jhon@gmail.com,https://www.microsoft.com
+ID07552,26-Aug,West,San Diego,Bars,Carrot,1,1.77,72.57,smith@gmail.com,https://www.facebook.com
+ID07553,29-Aug,East,Boston,Cookies,Arrowroot,1,2.18,296.48,Spectre@gmail.com,https://www.meta.com
+ID07554,1-Sep,East,Boston,Bars,Carrot,1,1.77,44.25,doe@gmail.com,https://www.spaces.com
+ID07555,4-Sep,East,Boston,Snacks,Pretzels,1,3.15,81.9,jhon@gmail.com,https://www.google.com
+ID07556,7-Sep,West,Los Angeles,Bars,Bran,1,1.87,93.5,smith@gmail.com,https://www.yahoo.com
+ID07557,10-Sep,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,224.36,Spectre@gmail.com,https://www.microsoft.com
+ID07558,13-Sep,East,New York,Bars,Carrot,1,1.77,53.1,doe@gmail.com,https://www.facebook.com
+ID07559,16-Sep,East,New York,Snacks,Potato Chips,1,1.68,33.6,jhon@gmail.com,https://www.meta.com
+ID07560,19-Sep,West,San Diego,Bars,Carrot,1,1.77,86.73,smith@gmail.com,https://www.spaces.com
+ID07561,22-Sep,East,Boston,Cookies,Arrowroot,1,2.18,87.2,Spectre@gmail.com,https://www.google.com
+ID07562,25-Sep,East,Boston,Bars,Carrot,1,1.77,54.87,doe@gmail.com,https://www.yahoo.com
+ID07563,28-Sep,East,Boston,Snacks,Pretzels,1,3.15,66.15,jhon@gmail.com,https://www.microsoft.com
+ID07564,1-Oct,West,Los Angeles,Bars,Bran,1,1.87,80.41,smith@gmail.com,https://www.facebook.com
+ID07565,4-Oct,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,133.48,Spectre@gmail.com,https://www.meta.com
+ID07566,7-Oct,East,New York,Cookies,Arrowroot,1,2.18,381.5,doe@gmail.com,https://www.spaces.com
+ID07567,10-Oct,East,New York,Cookies,Chocolate Chip,1,1.87,43.01,jhon@gmail.com,https://www.google.com
+ID07568,13-Oct,West,San Diego,Bars,Carrot,1,1.77,70.8,smith@gmail.com,https://www.yahoo.com
+ID07569,16-Oct,East,Boston,Cookies,Arrowroot,1,2.18,189.66,Spectre@gmail.com,https://www.microsoft.com
+ID07570,19-Oct,East,Boston,Bars,Carrot,1,1.77,76.11,doe@gmail.com,https://www.facebook.com
+ID07571,22-Oct,East,Boston,Crackers,Whole Wheat,1,3.49,104.7,jhon@gmail.com,https://www.meta.com
+ID07572,25-Oct,West,Los Angeles,Bars,Carrot,1,1.77,61.95,smith@gmail.com,https://www.spaces.com
+ID07573,28-Oct,East,New York,Bars,Bran,1,1.87,106.59,Spectre@gmail.com,https://www.google.com
+ID07574,31-Oct,East,New York,Snacks,Potato Chips,1,1.68,42,doe@gmail.com,https://www.yahoo.com
+ID07575,3-Nov,West,San Diego,Cookies,Chocolate Chip,1,1.87,44.88,jhon@gmail.com,https://www.microsoft.com
+ID07576,6-Nov,East,Boston,Bars,Bran,1,1.87,155.21,smith@gmail.com,https://www.facebook.com
+ID07577,9-Nov,East,Boston,Cookies,Oatmeal Raisin,1,2.84,352.16,Spectre@gmail.com,https://www.meta.com
+ID07578,12-Nov,West,Los Angeles,Bars,Carrot,1,1.77,242.49,doe@gmail.com,https://www.yahoo.com
+ID07579,15-Nov,East,New York,Cookies,Arrowroot,1,2.18,318.28,jhon@gmail.com,https://www.microsoft.com
+ID07580,18-Nov,East,New York,Cookies,Chocolate Chip,1,1.87,63.58,smith@gmail.com,https://www.facebook.com
+ID07581,21-Nov,West,San Diego,Bars,Carrot,1,1.77,35.4,Spectre@gmail.com,https://www.meta.com
+ID07582,24-Nov,East,Boston,Cookies,Arrowroot,1,2.18,303.02,doe@gmail.com,https://www.yahoo.com
+ID07583,27-Nov,East,Boston,Cookies,Chocolate Chip,1,1.87,394.57,jhon@gmail.com,https://www.microsoft.com
+ID07584,30-Nov,East,Boston,Crackers,Whole Wheat,1,3.49,69.8,smith@gmail.com,https://www.facebook.com
+ID07585,3-Dec,West,Los Angeles,Bars,Bran,1,1.87,78.54,Spectre@gmail.com,https://www.meta.com
+ID07586,6-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,284,doe@gmail.com,https://www.yahoo.com
+ID07587,9-Dec,East,New York,Bars,Carrot,1,1.77,67.26,jhon@gmail.com,https://www.microsoft.com
+ID07588,12-Dec,East,New York,Crackers,Whole Wheat,1,3.49,87.25,smith@gmail.com,https://www.facebook.com
+ID07589,15-Dec,West,San Diego,Cookies,Chocolate Chip,1,1.87,179.52,Spectre@gmail.com,https://www.meta.com
+ID07590,18-Dec,East,Boston,Cookies,Arrowroot,1,2.18,74.12,doe@gmail.com,https://www.yahoo.com
+ID07591,21-Dec,East,Boston,Cookies,Chocolate Chip,1,1.87,458.15,jhon@gmail.com,https://www.microsoft.com
+ID07592,24-Dec,East,Boston,Crackers,Whole Wheat,1,3.49,104.7,smith@gmail.com,https://www.facebook.com
+ID07593,27-Dec,West,Los Angeles,Bars,Bran,1,1.87,56.1,Spectre@gmail.com,https://www.meta.com
+ID07594,30-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,1,2.84,124.96,doe@gmail.com,https://www.yahoo.com
